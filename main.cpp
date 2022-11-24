@@ -124,6 +124,7 @@ int main() {
         }
 
         // Lo que no se haya clasificado se convierte en predicado
+        // Si después del verbo esta alguna palabra perteneciente a la lista de verbos copulativos break;
         if (buscar("Verbos_Copulativo_Conjugados.txt", composicion[i])) {
             cout << "Oracion Invalida" << endl;
             valido = false;
@@ -135,9 +136,10 @@ int main() {
     predicado.setTexto(txt_predicado);
     cout << sujeto.getTexto() << " -" << sujeto.getTipo() << endl;
     cout << verbo.getTexto() << " -" << verbo.getTipo() << endl;
-    cout << predicado.getTexto() << " -" << predicado.getTipo() << endl;
+    cout << predicado.getTexto() << " -" << predicado.getTipo() << endl << endl;
 
     if (valido) {
+        // Si está en el orden SUJETO+VERBO+PREDICADO
         if (sujeto.getPosicion() < verbo.getPosicion() && verbo.getPosicion() < predicado.getPosicion()) {
             cout << "Oracion simple valida" << endl;
         } else {
@@ -147,4 +149,3 @@ int main() {
 
 }
 
-// Si después del verbo esta alguna palabra perteneciente al nucleo copulativo break;
