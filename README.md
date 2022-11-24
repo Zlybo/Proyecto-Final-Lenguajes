@@ -6,6 +6,8 @@ Version: C++ 14
 
 Integrantes: Andrés Julián Gil Nagles
 
+Video Exposicion: https://youtu.be/a3oxSS7hlhE
+
 Video desmotracion: https://youtu.be/dmpP99Bw1Z0
 
 Importante:
