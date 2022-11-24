@@ -1,0 +1,396 @@
+--------------------------
+ser
+a ser
+hubiere sido
+hubieres sido
+hubiere sido
+hubieremos sido
+hubiereis sido
+hubieren sido
+hubieres sido
+-
+hubiera
+hubiese sido
+hubieras
+hubieses sido
+hubiera
+hubiese sido
+hubieramos
+hubiesemos sido
+hubierais
+hubieseis sido
+hubieran
+hubiesen sido
+hubieras
+hubieses sido
+-
+haya sido
+hayas sido
+haya sido
+hayamos sido
+hayais sido
+hayan sido
+hayas sido
+-
+fuere
+fueres
+fuere
+fueremos
+fuereis
+fueren
+fueres
+-
+fuera
+fuese
+fueras
+fueses
+fuera
+fuese
+fueramos
+fuesemos
+fuerais
+fueseis
+fueran
+fuesen
+fueras
+fueses
+-
+sea
+seas
+sea
+seamos
+seais
+sean
+seas
+-
+hube sido
+hubiste sido
+hubo sido
+hubimos sido
+hubisteis sido
+hubieron sido
+hubiste sido
+-
+seria
+serias
+seria
+seriamos
+seriais
+serian
+serias
+-
+sere
+seras
+sera
+seremos
+sereis
+seran
+seras
+-
+fui
+fuiste
+fue
+fuimos
+fuisteis
+fueron
+fuiste
+-
+era
+eras
+era
+eramos
+erais
+eran
+eras
+-
+soy
+eres
+es
+somos
+sois
+son
+sos
+-
+habria sido
+habrias sido
+habria sido
+habriamos sido
+habriais sido
+habrian sido
+habrias sido
+-
+habre sido
+habras sido
+habra sido
+habremos sido
+habreis sido
+habran sido
+habras sido
+-
+habia sido
+habias sido
+habia sido
+habiamos sido
+habiais sido
+habian sido
+habias sido
+-
+he sido
+has sido
+ha sido
+hemos sido
+habeis sido
+han sido
+has sido
+--------------------
+estar
+he estado
+has estado
+ha estado
+hemos estado
+habeis estado
+han estado
+has estado
+-
+habia estado
+habias estado
+habia estado
+habiamos estado
+habiais estado
+habian estado
+habias estado
+-
+habre estado
+habras estado
+habra estado
+habremos estado
+habreis estado
+habran estado
+habras estado
+-
+habria estado
+habrias estado
+habria estado
+habriamos estado
+habriais estado
+habrian estado
+habrias estado
+-
+estoy
+estas
+esta
+estamos
+estais
+estan
+estas
+-
+estaba
+estabas
+estaba
+estabamos
+estabais
+estaban
+estabas
+-
+estuve
+estuviste
+estuvo
+estuvimos
+estuvisteis
+estuvieron
+estuviste
+-
+estare
+estaras
+estara
+estaremos
+estareis
+estaran
+estaras
+-
+estaria
+estarias
+estaria
+estariamos
+estariais
+estarian
+estarias
+-
+estes
+estemos
+esteis
+esten
+estes
+-
+estuviera
+estuviese
+estuvieras
+estuvieses
+estuviera
+estuviese
+estuvieramos
+estuviesemos
+estuvierais
+estuvieseis
+estuvieran
+estuviesen
+estuvieras
+estuvieses
+-
+estuviere
+estuvieres
+estuviere
+estuvieremos
+estuviereis
+estuvieren
+estuvieres
+-
+haya estado
+hayas estado
+haya estado
+hayamos estado
+hayais estado
+hayan estado
+hayas estado
+-
+hubiera
+hubiese estado
+hubieras
+hubieses estado
+hubiera
+hubiese estado
+hubieramos
+hubiesemos estado
+hubierais
+hubieseis estado
+hubieran
+hubiesen estado
+hubieras
+hubieses estado
+----------------
+parecer
+he parecido
+has parecido
+ha parecido
+hemos parecido
+habeis parecido
+han parecido
+has parecido
+
+habia parecido
+habias parecido
+habia parecido
+habiamos parecido
+habiais parecido
+habian parecido
+habias parecido
+
+habre parecido
+habras parecido
+habra parecido
+habremos parecido
+habreis parecido
+habran parecido
+habras parecido
+
+habria parecido
+habrias parecido
+habria parecido
+habriamos parecido
+habriais parecido
+habrian parecido
+habrias parecido
+
+parezco
+pareces
+parece
+parecemos
+pareceis
+parecen
+pareces
+
+parecia
+parecias
+parecia
+pareciamos
+pareciais
+parecian
+parecias
+
+pareci
+pareciste
+parecio
+parecimos
+parecisteis
+parecieron
+pareciste
+
+parecere
+pareceras
+parecera
+pareceremos
+parecereis
+pareceran
+pareceras
+
+pareceria
+parecerias
+pareceria
+pareceriamos
+pareceriais
+parecerian
+parecerias
+
+parezca
+parezcas
+parezca
+parezcamos
+parezcais
+parezcan
+parezcas
+
+pareciera
+pareciese
+parecieras
+parecieses
+pareciera
+pareciese
+parecieramos
+pareciesemos
+parecierais
+parecieseis
+parecieran
+pareciesen
+parecieras
+parecieses
+
+pareciere
+parecieres
+pareciere
+parecieremos
+pareciereis
+parecieren
+parecieres
+
+haya parecido
+hayas parecido
+haya parecido
+hayamos parecido
+hayais parecido
+hayan parecido
+hayas parecido
+
+hubiera
+hubiese parecido
+hubieras
+hubieses parecido
+hubiera
+hubiese parecido
+hubieramos
+hubiesemos parecido
+hubierais
+hubieseis parecido
+hubieran
+hubiesen parecido
+hubieras
+hubieses parecido
