@@ -118,7 +118,7 @@ int main() {
             nums_verbos = 1;
             i = i + 1;
         }
-
+        // Para casos donde hay una oración muy corta y pueda haber algún conflicto con el largo de la lista "composición"
         if (i > composicion.size() - 1) {
             break;
         }
@@ -134,9 +134,6 @@ int main() {
         txt_predicado.append(composicion[i] + " ");
     }
     predicado.setTexto(txt_predicado);
-    cout << sujeto.getTexto() << " -" << sujeto.getTipo() << endl;
-    cout << verbo.getTexto() << " -" << verbo.getTipo() << endl;
-    cout << predicado.getTexto() << " -" << predicado.getTipo() << endl << endl;
 
     if (valido) {
         // Si está en el orden SUJETO+VERBO+PREDICADO
