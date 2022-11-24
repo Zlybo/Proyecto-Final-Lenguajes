@@ -21,3 +21,15 @@ Importante:
 Descripcion:
 
 El programa recibe una oracion y la clasifica por su sujeto, verbo y predicado para luego verificar si esta escrita de la forma SUJETO + VERBO + PREDICADO dando error cuando el sujeto y el verbo se escriben después del predicado, cuando una oracion tiene 2 o mas verbos y con oraciones con predicados con núcleo copulativo compuesto ( ser, estar parecer) 
+
+Ejemplo:
+
+Oracion: La cancha de futbol tiene muchos huecos
+
+la cancha de futbol -Sujeto
+
+tiene -Verbo
+
+muchos huecos  -Predicado
+
+Oracion simple valida
