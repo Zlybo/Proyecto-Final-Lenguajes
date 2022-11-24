@@ -7,6 +7,9 @@ Version: C++ 14
 Integrantes: Andrés Julián Gil Nagles
 
 Importante:
+
+- En la carpeta "cmake-build-debug" estan las listas utilizadas como archivos.txt
+
 - El programa no funciona correctamente si se le agrega una ñ o alguna tilde.
 
 - Los pronombres "tu" y "el" con minusculas se usan en su version de pronombre personal (tú y él)
