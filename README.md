@@ -6,6 +6,8 @@ Version: C++ 14
 
 Integrantes: Andrés Julián Gil Nagles
 
+Video desmotracion: https://youtu.be/dmpP99Bw1Z0
+
 Importante:
 
 - En la carpeta "cmake-build-debug" estan las listas utilizadas como archivos.txt
