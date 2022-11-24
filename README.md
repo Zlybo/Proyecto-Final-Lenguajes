@@ -14,7 +14,7 @@ Importante:
 
 - Los pronombres "tu" y "el" con minusculas se usan en su version de pronombre personal (tú y él)
 
-- Si se va a compilar con g++ desde el cmd, descargar todo tal cual y si presenta algun error de compilacion debe entrar al archivo main.cpp y cambiar # include "clasificacion.h" a "clasificacion.cpp" 1
+- Si se va a compilar con g++ desde el cmd, descargar todo tal cual y si presenta algun error de compilacion debe entrar al archivo main.cpp y cambiar # include "clasificacion.h" a "clasificacion.cpp"
 
 - Por alguna extraña razon (ya que funciona y deja de fucionar sin que yo modifique el codigo), algunas veces no carga los archivos txt cuando se compila con g++ preferible usar clion o replit
 
